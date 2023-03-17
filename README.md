@@ -16,15 +16,15 @@ Message:
 Hi @InfinityGorzan,
 (3 backticks)
 I want to be a new contributor for Q#. I can help you with (what can you help me with).
-I will share ideas via repository: 
 (3 backticks)
-[Repository](Link to repository)
 ```
 
 You can check issues tab for example new user (how should it look like).
 
 To check it, search issues for "is:issue is:close ".
 
-You will get a comment in your issue if it is accepted like this:
+You will get a comment in your issue if it is accepted like this and will be closed.
 
-![Example](https://user-images.githubusercontent.com/96303911/225884824-695cfc38-2e5f-437a-917d-fa4b911fe0a1.png)
+Search "is:issue is:close " in issues to see closed issues.
+
+After accepted, you will be invited to a project called "Q# Planning".
